@@ -1,0 +1,94 @@
+﻿Key;Title;Description
+T001028 ;Tot  renewable excl statistical transfer;The total of all renewable energy sources, excluding the statistical transfer of renewable energy.
+E007210 ;Tot  renewable incl statistical transfer;The total of all renewable energy sources, including the statistical transfer of renewable energy.
+E007209 ;Statistical transfer;With a statistical transfer, a quantity of renewable energy is purchased from a country that has achieved its European target and has a surplus.
+T001027 ;Total, including non-renewables;The total of all energy sources, both renewable and non-renewable
+E006587 ;Hydro power;Energy produced from falling or flowing water.
+E006588 ;Wind energy, total;Energy produced with wind turbines. Wind turbines can be placed on shore and off shore.
+E006637 ;Wind energy on shore;"Energy produced with on shore wind turbines. 
+Wind turbines in inland waters (such as the Ijsselmeer) are included in on shore wind energy."
+E006638;Wind energy off shore;"Energy produced with off shore wind turbines.
+Off shore electricity production from wind energy started in the autumn of 2006."
+E006589 ;Solar energy;Solar radiation used for the production of hot water and electricity by solar panels and solar cells. Passive solar energy for heating buildings and greenhouses is not included.
+E006590 ;Solar photovoltaic;Energy form the sun converted into electricity.
+E006591 ;Solar thermal, total;Energy form the sun converted into heat.
+E006594 ;Total geothermal energy;"Geothermal energy is all energy derived from below the earth’s surface. 
+A distinction has been made between deep geothermal heat and  shallow geothermal heat. The boundary is set at 500 meters below ground level."
+E006595 ;Deep geothermal heat;"Deep geothermal heat comes from a depth of more than 500 meters below the surface.
+Deep geothermal energy is heat that comes from inside the earth’s core. Deep geothermal heat is mainly used using a heat exchanger. A heat exchanger is a device in which two streams come together with different temperatures in which heat transfer takes place from the flow with the high temperature to the low temperature stream. A heat exchanger, unlike a heat pump, requires very little auxiliary energy. "
+E006596 ;Total shallow geothermal energy;"It concerns heat from the soil up to a depth of 500 meters and comes from the exchange of energy with the atmosphere.
+Shallow geothermal energy is also referred to as heat/cold storage."
+E006656 ;Aerothermal heat;"Heat from the outdoor air.
+This is used for heating houses and commercial buildings using a heat pump. A heat pump is a machine that transforms heat at a low temperature into heat at a higher temperature using auxiliary energy (often electricity). The working is comparable to the working of a fridge. Heat of low temperature (from within the fridge) is transformed into heat of a higher temperature (outside the fridge). "
+E006566 ;Total biomass;"All vegetal and animal materials from recent origin that are used for energy purposes.
+Examples are wood, manure and waste from the food industry."
+E006661 ;"Municipal waste; renewable fraction";"Renewable fraction of municipal waste combusted in specific installations.
+Only the energy produced by the combustion of the part of the waste that comes from plants and animals counts at renewable energy.
+An example is waste of a garden."
+E006662 ;Co-firing of biomass in electr. plants;"Co-firing of biomass in central electricity plants.
+An example is the co-firing of solid biomass in coal power plants in the form of wood pellets. Pellets are compressed pieces of wood."
+E006664 ;Total biomass households;Concerning wood-burning stoves and charcoal use in households.
+E006665 ;Biomass households, open fireplaces;"Wood stoves in households, open fireplaces.
+Open fire places in households combusting wood."
+E006666 ;Biomass households, inserts;Closed wood stoves inserted in an open fireplace.
+E006667 ;Biomass households, wood stoves;Free standing wood stoves in households.
+E007204 ;Biomass households, pellet stoves;Free standing pellet stoves in households.
+E006668 ;Biomass households, charcoal use;"Use of charcoal by households.
+The avoided use of fossil energy and avoided carbon dixoide emssion by use of charcoal is nill."
+E006669 ;Biomass boilers companies, total;"The combustion of solid or liquid biomass for decentralized electricity- and heat production. 
+For example combustion of paper sludge or wood."
+E006670 ;Biomass boilers companies, CHP;"The combustion of solid or liquid biomass for decentralized electricity production, with or without the simultaneous production of heat.
+The abbreviation CHP stands for combined heat and power: the combined generation of electricity (power) and heat.
+This category also includes some installations that only produce electricity. Co-firing of biomass in coal power plants is not included in this category; see for this 'Co-firing of biomass in electr. plants'."
+E006671 ;Biomass boilers companies, heat only;The combustion of solid and liquid biomass for the production of heat only.
+E006583 ;Total biogas;Active fermentation of organic material from sewage purification (sewage gas), landfills, organic household waste, manure, maize and vegetal waste from agriculture, the food industry and trade.
+E006673 ;Biogas from landfills;Biogas that is produced from the organic fraction of dumped waste. A part of that landfill gas is used.
+E006674 ;Biogas from sewage water purification;Active fermentation of organic material from sewage water purification.
+E006675 ;Biogas, co-digestion of manure;"Fermentation of manure in combination of other vegetal material. 
+Mostly but not always performed by farms. Until 2004 this was included in 'Other biogas'. Fermentation of manure only is also included."
+E006586 ;Other biogas;"Active fermentation of organic material from waste water purification in manufacturing industries and fermentation of organic waste.
+Until and including 2004 this was included in 'Biogas, co-digestion of manure'."
+E006677 ;Liquid biofuels for transport, total;"Liquid biofuels sold on the Dutch market, mostly blended with standard gasoline and diesel.
+From 2011 onwards in this table biofuels are excluded that do not comply to the sustainability criteria from the EU-directive Renewable Energy. Compliance to the criteria is determined with information from the Dutch Emissions Authority (NEa). In the StatLine table 'Liquid biofuels for transport' all biofuels are included. That is why the consumption of biofuels in this table can deviate from the consumption of biofuels in the other tables."
+E006678 ;Biogasoline;Biofuels that are suitable to be used in gasoline engines, mostly after blending in ordinary gasoline. Bio-ethanol is a widely used form of biogasoline.
+E006679 ;Biodiesel;Biofuels that are suitable to be used in diesel engines, mostly after blending in ordinary diesel. HVO (hydrotreated vegetable oil) is included in biodiesel.
+E007020 ;Bio jet kerosene;Kerosene made from vegetable or animal material. Also known as sustainable aviation fuels (SAF) if the fuel is made in an environmentally friendly manner, in accordance with European agreements on sustainability of biofuels.
+E007022 ;Total energy applications;
+E006607 ;Electricity;Flow of electrons used to light lamps or to operate washing machines. Electrons are elementary particles in an atom with a negative charge that flow by a potential difference.
+E006608 ;Heat;All use of energy for other applications than electricity and transport. This mainly concerns heat, but also use of energy for driving machines, like tractors, fishing boats and mobile machines in construction.
+E007028 ;Transport;"Transport on road, rail, water and in the air.
+The use of fuels in ships for fishing, tractors and mobile vehicles in construction is not included in transport, but in heat. This follows from the definition of transport in international energy statistics."
+1990JJ00;1990;
+1991JJ00;1991;
+1992JJ00;1992;
+1993JJ00;1993;
+1994JJ00;1994;
+1995JJ00;1995;
+1996JJ00;1996;
+1997JJ00;1997;
+1998JJ00;1998;
+1999JJ00;1999;
+2000JJ00;2000;
+2001JJ00;2001;
+2002JJ00;2002;
+2003JJ00;2003;
+2004JJ00;2004;
+2005JJ00;2005;
+2006JJ00;2006;
+2007JJ00;2007;
+2008JJ00;2008;
+2009JJ00;2009;
+2010JJ00;2010;
+2011JJ00;2011;
+2012JJ00;2012;
+2013JJ00;2013;
+2014JJ00;2014;
+2015JJ00;2015;
+2016JJ00;2016;
+2017JJ00;2017;
+2018JJ00;2018;
+2019JJ00;2019;
+2020JJ00;2020;
+2021JJ00;2021;
+2022JJ00;2022;
+2023JJ00;2023;Revised provisional figures
